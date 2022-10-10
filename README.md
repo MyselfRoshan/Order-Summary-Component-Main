@@ -27,7 +27,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Site URL: https://simple-website-with-html-and-css-position.vercel.app/
+- Site URL: https://order-summary-component-main-green.vercel.app/
 
 ## My process
 
